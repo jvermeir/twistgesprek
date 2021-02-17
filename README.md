@@ -1,15 +1,13 @@
-# New repository on Xebia GitHub
+# Automatically select text arguing a different opinion to a given text
 
-Welcome to the Xebia GitHub organization!
+The BHAG is to show people ideas that directly contradict each other. An example would be Trumps tweet about the number of people at his inauguration being the highest ever, which would then find and show information about Obama’s inauguration.
 
-This organization contains a lot of repos and to keep things organized we kindly ask you to keep the following in mind:
+Facebook could use this in stead of filtering: whenever someone sees a message claiming A, Facebook would show a message next to it, claiming not-A. And the other way around. This feature would make people think about what they consider to be the truth, without making claims about truthfulness. You may think of it as an automated, large scale version of the weekly feature in Dutch newspaper `NRC` (www.nrc.nl), called the ‘twist gesprek’ (https://www.nrc.nl/rubriek/twistgesprek/) where two people discuss a statement during the week by exchanging messages. The results of this discussion are presented as a back-and-forth of messages in the Saturday opinion pages, like a civilised version of a political debate.
 
-1. Always provide a clear description so that the repo can be recognized in the repository list on GitHub.
-2. Modify this [README.md](./README.md) to provide information about the repo, how to run the code, etc.
-3. Public repos should adhere to our Quality without Compromise value so that the Xebia organization will be a showcase of nice projects to the outside world.
-4. Repositories should be maintained actively (at least bumping dependencies) or else archived/deleted.
+I like reading that kind of thing because it always makes me question my beliefs.
+Don’t hide opinions from me, like the current sentiment seems to be, but make me think. As usual, the Internet offers technology that has obvious benefits to how we used to do things in the past, but those benefits come at a price.
+The challenge is to keep the benefits without paying the price. And that is what caused this research.
 
-If your repo does not satisfy these guidelines, you risk the repository to be deleted.
-In the future we plan to implement automatic checking of these guidelines so that abandoned repos will be deleted automatically.
-
-More info about the initiatives to keep our GitHub organization clean, see [xebia-github-admin-scripts](https://www.github.com/xebia-github-admin-scripts) and #github on [Slack](https://xebia.slack.com).
+```
+How do I extract the main idea out of piece of text in a way that would allow me to select another piece of text with the opposite opinion?
+```
