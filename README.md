@@ -17,4 +17,4 @@ ideas
 
 *   AutoML Natural Language: https://cloud.google.com/natural-language#natural-language-api-demo
 *   Social Media Analytics research by Sandjai Bhulai: https://www.math.vu.nl/~sbhulai/
-*   
+*   Overview on Wikipedia: https://en.wikipedia.org/wiki/Automatic_summarization
