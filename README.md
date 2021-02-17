@@ -9,5 +9,12 @@ Don’t hide opinions from me, like the current sentiment seems to be, but make 
 The challenge is to keep the benefits without paying the price. And that is what caused this research.
 
 ```
-How do I extract the main idea out of piece of text in a way that would allow me to select another piece of text with the opposite opinion?
+How do I extract the main idea out of piece of text in a way 
+that would allow me to select another piece of text with the opposite opinion?
 ```
+
+ideas
+
+*   AutoML Natural Language: https://cloud.google.com/natural-language#natural-language-api-demo
+*   Social Media Analytics research by Sandjai Bhulai: https://www.math.vu.nl/~sbhulai/
+*   
