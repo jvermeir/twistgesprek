@@ -18,3 +18,4 @@ ideas
 *   AutoML Natural Language: https://cloud.google.com/natural-language#natural-language-api-demo
 *   Social Media Analytics research by Sandjai Bhulai: https://www.math.vu.nl/~sbhulai/
 *   Overview on Wikipedia: https://en.wikipedia.org/wiki/Automatic_summarization
+*   About the problems of filtering and moderation at Facebook: https://www.eff.org/deeplinks/2021/02/facebooks-latest-proposed-policy-change-exemplifies-trouble-moderating-speech-0
