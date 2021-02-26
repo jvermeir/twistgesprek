@@ -170,6 +170,21 @@ idea:
     this way we can find the sentiment of each sentence  in a time line.  if sentiment is 
     negative overall, we might insert a couple of positive sentences.
 
+`gcloud ml language analyze-sentiment --content-file=optimist-migrane.txt > optimist-migrane.json`
+
+gets a neutral overall score. how about taking the most positive sentence and using that as a score?
+
+```
+ $ gcloud ml language classify-text --content-file=optimist-migrane.txt
+{
+  "categories": [
+    {
+      "confidence": 0.95,
+      "name": "/Health/Health Conditions/Pain Management"
+    }
+  ]
+}
+```
 
 TODO: 
 - find a number of sample documents

@@ -1,0 +1,599 @@
+{
+  "documentSentiment": {
+    "magnitude": 31.4,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 1,
+        "content": "Trump calls for action on mass shootings, suggests marrying gun control legislation with immigration reform"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 110,
+        "content": "President Trump to address nation on weekend's deadly shootings; Griff Jenkins reports from Washington."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 215,
+        "content": "President Trump called Monday for reforms at the intersection of mental health and gun laws -- including so-called \"red flag laws\" to take guns from those deemed a public risk -- in the wake of back-to-back mass shootings over the weekend that left at least 31 people dead."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 490,
+        "content": "“Our nation is overcome with shock, horror and sorrow,” Trump said, in solemn remarks from the White House."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 602,
+        "content": "“We are outraged and sickened by this monstrous evil.”"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 662,
+        "content": "In unequivocal terms, the president also condemned white supremacy, responding to reports that the shooter in El Paso wrote a racist manifesto."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 807,
+        "content": "DAYTON SHOOTING, CHAOS CAPTURED ON SURVEILLANCE VIDEO AS OFFICERS SEEN RACING TOWARD GUNFIRE"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 901,
+        "content": "\"In one voice, our nation must condemn racism, bigotry and white supremacy,” Trump said, standing beside Vice President Pence."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 1030,
+        "content": "“These sinister ideologies must be defeated."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 1077,
+        "content": "Hatred has no place in America.”"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 1113,
+        "content": "The president notably did not call for explicit changes to gun laws beyond red flag laws, despite tweeting earlier Monday morning about the possibility of linking background check legislation to immigration reform."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 1328,
+        "content": "However, he said he is open and ready to listen to ideas \"that will actually work.\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1413,
+        "content": "Among his list of proposals, Trump called for reforms to mental health laws \"to better identify mentally disturbed individuals who may commit acts of violence,\" adding that we must \"make sure those people not only get treatment but when necessary, involuntary confinement.\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 1688,
+        "content": "“Mental illness and hatred pulls the trigger, not the gun,\" Trump said, going on to call for red-flag laws to allow the seizure of firearms from those judged to pose a grave risk to public safety."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 1888,
+        "content": "The president also called for \"cultural\" changes, citing violent video games."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1966,
+        "content": "Further, Trump said he has directed the Justice Department to propose legislation ensuring that those commit hate crimes and mass murders \"face the death penalty and that this capital punishment be delivered quickly, decisively, and without years of needless delay.\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 2234,
+        "content": "Further, he called for policing the \"dark recesses of the Internet\" in a bid to catch mass murderers before they act."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 2353,
+        "content": "\"We must do a better job at identifying and acting on early warning signs,\" Trump said."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2441,
+        "content": "\"I am directing the Department of Justice to work in partnership with local, state, and federal agencies and social media companies to develop tools to identify mass shooters before they strike.\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 2638,
+        "content": "He added: \"We must stop the glorification of violence in our society."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 2708,
+        "content": "This includes the gruesome and grisly video games that are now commonplace...It is too easy for troubled youth to surround themselves with a culture that celebrates violence."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 2883,
+        "content": "We must stop or substantially reduce this and it has to begin immediately."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 2958,
+        "content": "\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 2961,
+        "content": "Within minutes of completing his address, 2020 Democratic presidential candidates were slamming his remarks as insufficient."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 3087,
+        "content": "\"The president is weak."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 3111,
+        "content": "And wrong."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 3122,
+        "content": "White supremacy is not a mental illness, and guns are a tool that white supremacists use to fulfill their hate,\" Sen. Cory Booker, D-N.J., tweeted."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 3271,
+        "content": "The shootings, coming in quick succession over the weekend, shocked a nation that has seen a concentration of mass shootings over the past two decades unparalleled in the western world."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 3458,
+        "content": "On Saturday, a gunman, whom Trump described Monday as a \"wicked man,\" killed 22 people and injured 24 others after he opened fire at a Walmart in El Paso, Texas."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3621,
+        "content": "In Dayton, Ohio, 24-year-old Connor Betts, whom Trump described Monday as a \"twisted monster,\" opened fire outside a bar around 1 a.m."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 3756,
+        "content": "Sunday, killing his adult sister and eight others."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 3807,
+        "content": "Police say he was fatally shot by officers within 30 seconds, and was wearing a mask, bulletproof vest and earplugs and had at least 100 rounds."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 3952,
+        "content": "He injured more than two dozen people, leaving one in critical condition, police said Sunday."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 4047,
+        "content": "TRUMP DENOUNCES HATE"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 4069,
+        "content": "Police have not determined a motive for the attack as of Sunday evening, but it was reported that Betts, while in high school, was suspended for compiling a “hit list” of those he wanted to kill, and a “rape list” of girls he wanted to sexually assault."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 4332,
+        "content": "Trump called the shooting in El Paso “tragic” and an “act of cowardice.”"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 4414,
+        "content": "“I know that I stand with everyone in this Country to condemn today’s hateful act."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 4501,
+        "content": "There are no reasons or excuses that will ever justify killing innocent people,” he tweeted."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 4597,
+        "content": "On Sunday, the president said that \"hate has no place in our country,\" and once again condemned the attacks."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 4706,
+        "content": "He vowed to \"take care\" of the problem, and pointed to mental illness, calling the shooters \"really very seriously mentally ill.\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 4837,
+        "content": "The president also said that the problem of shootings has been going on \"for years and years\" and \"we have to get it stopped.\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 4965,
+        "content": "The attacks, however, have revived the national debate over how to tackle gun violence, with many Democrats demanding the Senate return from recess to address the issue."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 5135,
+        "content": "A number of Democratic lawmakers and presidential candidates have also accused the president of fueling racial tensions with his rhetoric."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 5275,
+        "content": "After the El Paso shooter was linked to anti-Mexican statements, presidential candidate Pete Buttigieg told \"Fox News Sunday\" this is “white nationalist terrorism.”"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 5445,
+        "content": "“We need to acknowledge that this is a problem,” Buttigieg said, claiming white nationalism has been “condoned at the highest levels” in Washington."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5603,
+        "content": "CLICK HERE TO GET THE FOX NEWS APP"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 5639,
+        "content": "Sen. Bernie Sanders, I-Vt., another 2020 White House hopeful, asked that Trump \"please stop the racist anti-immigrant rhetoric."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 5767,
+        "content": "Stop the hatred in this country which is creating the kind of violence we see.\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 5848,
+        "content": "Trump on Monday touted his administration’s record on gun measures, noting that last year he ordered a ban on bump stocks and “all devices” that otherwise turn legal weapons into “illegal machine guns.”"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 6062,
+        "content": "A bump stock is an attachment that allows a semi-automatic rifle to achieve a fully automatic weapon’s “cyclic firing rate to mimic nearly continuous automatic fire,” according to the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF.)"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6311,
+        "content": "Semi-automatic rifles with bump stocks can fire hundreds of rounds per minute, according to experts."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6413,
+        "content": "Trump has, in the past, called for strengthening the federal background check system, and in 2018 signed legislation to increase federal agency sharing into the system."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 6582,
+        "content": "But the president has resisted Democratic calls to toughen other gun control laws."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 6665,
+        "content": "In February, the House approved bipartisan legislation that would require federal background checks for all gun sales and transfers, and approved legislation that would allow a review period of up to 10 days for background checks on firearm purchases."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 6918,
+        "content": "But the White House threatened a presidential veto if those measures passed Congress."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 7005,
+        "content": "The Associated Press contributed to this report."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 7054,
+        "content": "Brooke Singman is a Politics Reporter for Fox News."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 7106,
+        "content": "Follow her on Twitter at @BrookeSingman."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 7147,
+        "content": "Fox News First"
+      }
+    }
+  ]
+}

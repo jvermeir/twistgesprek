@@ -1,0 +1,1539 @@
+{
+  "entities": [
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": -0.3
+          },
+          "text": {
+            "beginOffset": 29,
+            "content": "migraine"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "migraine",
+      "salience": 0.097846925,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.8,
+            "score": -0.8
+          },
+          "text": {
+            "beginOffset": 65,
+            "content": "pain"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "pain",
+      "salience": 0.07465643,
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 0,
+            "content": "Anyone"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Anyone",
+      "salience": 0.06245382,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 167,
+            "content": "study"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "study",
+      "salience": 0.052177526,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 203,
+            "content": "exercise"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "exercise",
+      "salience": 0.04378748,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 244,
+            "content": "exercise"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "exercise",
+      "salience": 0.04357233,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 230,
+            "content": "trick"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "trick",
+      "salience": 0.0371254,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 798,
+            "content": "Mason Dyess"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 794,
+            "content": "Dr."
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 781,
+            "content": "study author"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Mason Dyess",
+      "salience": 0.035564695,
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.2
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 139,
+            "content": "migraine symptoms"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "migraine symptoms",
+      "salience": 0.029450445,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 116,
+            "content": "ways"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "ways",
+      "salience": 0.028740272,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.9,
+            "score": 0.9
+          },
+          "text": {
+            "beginOffset": 622,
+            "content": "neurotransmitters"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "neurotransmitters",
+      "salience": 0.027875857,
+      "sentiment": {
+        "magnitude": 1.1,
+        "score": 0.5
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1454,
+            "content": "participants"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "participants",
+      "salience": 0.024043243,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 531,
+            "content": "relationship"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "relationship",
+      "salience": 0.022925474,
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 315,
+            "content": "research"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "research",
+      "salience": 0.019823551,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 562,
+            "content": "exercise"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "exercise",
+      "salience": 0.018936886,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1654,
+            "content": "participants"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "participants",
+      "salience": 0.018745886,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 402,
+            "content": "exercise"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "exercise",
+      "salience": 0.016608197,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 476,
+            "content": "depression"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "depression",
+      "salience": 0.014919524,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 468,
+            "content": "stress"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "stress",
+      "salience": 0.012676885,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 451,
+            "content": "triggers"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "triggers",
+      "salience": 0.012676885,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 288,
+            "content": "migraine triggers"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "migraine triggers",
+      "salience": 0.012676885,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1743,
+            "content": "group"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "group",
+      "salience": 0.011544142,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 1785,
+            "content": "people"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "people",
+      "salience": 0.011464122,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 890,
+            "content": "migraines"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "migraines",
+      "salience": 0.011284534,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 933,
+            "content": "migraines"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "migraines",
+      "salience": 0.011259309,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 815,
+            "content": "part"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "part",
+      "salience": 0.010742793,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1000,
+            "content": "participant"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "participant",
+      "salience": 0.009817408,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": -0.3
+          },
+          "text": {
+            "beginOffset": 1569,
+            "content": "rates"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "rates",
+      "salience": 0.009471532,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 827,
+            "content": "study"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "study",
+      "salience": 0.009438435,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 838,
+            "content": "researchers"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "researchers",
+      "salience": 0.009438435,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": -0.3
+          },
+          "text": {
+            "beginOffset": 1092,
+            "content": "depression"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "depression",
+      "salience": 0.009262194,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": -0.3
+          },
+          "text": {
+            "beginOffset": 1116,
+            "content": "anxiety"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "anxiety",
+      "salience": 0.0086251,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1187,
+            "content": "Researchers"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Researchers",
+      "salience": 0.008598513,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 1104,
+            "content": "stress"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "stress",
+      "salience": 0.007867816,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1024,
+            "content": "questionnaire"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "questionnaire",
+      "salience": 0.007625847,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.5,
+            "score": 0.5
+          },
+          "text": {
+            "beginOffset": 761,
+            "content": "well-being"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "well-being",
+      "salience": 0.00758469,
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.8,
+            "score": 0.8
+          },
+          "text": {
+            "beginOffset": 744,
+            "content": "mood"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "mood",
+      "salience": 0.00758469,
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": -0.4
+          },
+          "text": {
+            "beginOffset": 492,
+            "content": "trouble"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "trouble",
+      "salience": 0.0075185876,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.6,
+            "score": 0.6
+          },
+          "text": {
+            "beginOffset": 607,
+            "content": "levels"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "levels",
+      "salience": 0.0074920543,
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 656,
+            "content": "norepinephrine"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "norepinephrine",
+      "salience": 0.0074920543,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.6,
+            "score": 0.6
+          },
+          "text": {
+            "beginOffset": 718,
+            "content": "headaches"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "headaches",
+      "salience": 0.0074920543,
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": 0.4
+          },
+          "text": {
+            "beginOffset": 672,
+            "content": "serotonin"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "serotonin",
+      "salience": 0.0074920543,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 646,
+            "content": "dopamine"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "dopamine",
+      "salience": 0.0074920543,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": -0.4
+          },
+          "text": {
+            "beginOffset": 1578,
+            "content": "depression"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "depression",
+      "salience": 0.0069515416,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 1050,
+            "content": "migraine characteristics"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "migraine characteristics",
+      "salience": 0.006911764,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 1076,
+            "content": "sleep routines"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "sleep routines",
+      "salience": 0.006911764,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 333,
+            "content": "University of Washington"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/07t90",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Washington"
+      },
+      "name": "University of Washington",
+      "salience": 0.006589094,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": -0.3
+          },
+          "text": {
+            "beginOffset": 1590,
+            "content": "anxiety"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "anxiety",
+      "salience": 0.0064730584,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1157,
+            "content": "exercise"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "exercise",
+      "salience": 0.0064550326,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1642,
+            "content": "half"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "half",
+      "salience": 0.0056461203,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 1603,
+            "content": "sleep problems"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "sleep problems",
+      "salience": 0.0051865126,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 1692,
+            "content": "depression"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "depression",
+      "salience": 0.0048609152,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.6,
+            "score": -0.6
+          },
+          "text": {
+            "beginOffset": 1822,
+            "content": "anxiety"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "anxiety",
+      "salience": 0.0045212847,
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 1866,
+            "content": "group"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "group",
+      "salience": 0.0045212847,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1729,
+            "content": "people"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "people",
+      "salience": 0.004128261,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1768,
+            "content": "most"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "most",
+      "salience": 0.0036260965,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 1887,
+            "content": "most"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "most",
+      "salience": 0.0036222166,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1258,
+            "content": "exercise"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "exercise",
+      "salience": 0.0034002042,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1212,
+            "content": "participants"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "participants",
+      "salience": 0.0032365804,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1235,
+            "content": "groups"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "groups",
+      "salience": 0.002842783,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1245,
+            "content": "frequency"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "frequency",
+      "salience": 0.0022772485,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 1280,
+            "content": "none"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "none",
+      "salience": 0.0022772485,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1350,
+            "content": "minimum"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "minimum",
+      "salience": 0.0022772485,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1415,
+            "content": "results"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "results",
+      "salience": 0.0018908394,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1377,
+            "content": "World Health Organization"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1404,
+            "content": "WHO"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0840w",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/World_Health_Organization"
+      },
+      "name": "World Health Organization",
+      "salience": 0.001519883,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    }
+  ],
+  "language": "en"
+}
