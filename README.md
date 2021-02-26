@@ -258,8 +258,6 @@ $ gcloud ml language classify-text --content-file=optimist-migrane.txt
 
 
 ### Analyze sentiment of a document 
-  
-`gcloud ml language analyze-sentiment --content='kill all software developers.'`
 
 ``` 
 gcloud ml language analyze-sentiment --content='we love all software developers.'
