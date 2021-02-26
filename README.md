@@ -223,7 +223,7 @@ Find `alternative facts` given a `fact` is difficult, at least with Google ML.
 
 
 
-
+-------------
 
 # Summary 
 
@@ -252,12 +252,14 @@ $ gcloud ml language classify-text --content-file=optimist-migrane.txt
   
 `gcloud ml language analyze-sentiment --content='kill all software developers.'`
 
-``` $ gcloud ml language analyze-sentiment --content='we love all software developers.'
+``` 
+gcloud ml language analyze-sentiment --content='we love all software developers.'
 {
   "documentSentiment": {
     "magnitude": 0.9,
     "score": 0.9
-  }, ...
+  },...
+}
 ```
 
 ### Getting a positive outcome is not that intuitive. 

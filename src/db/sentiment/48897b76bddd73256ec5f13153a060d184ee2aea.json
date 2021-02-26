@@ -1,0 +1,68 @@
+{
+	"document_sentiment": {
+		"magnitude": 3,
+		"score": 0.3
+	},
+	"language": "en",
+	"sentences": [
+		{
+			"text": {
+				"content": "Anyone who has experienced a migraine knows how debilitating the pain can be."
+			},
+			"sentiment": {
+				"magnitude": 0.4,
+				"score": -0.4
+			}
+		},
+		{
+			"text": {
+				"content": "And while there are several medicinal ways to help alleviate migraine symptoms, a recent study has found that getting enough exercise might just do the trick.",
+				"begin_offset": 78
+			},
+			"sentiment": {
+				"magnitude": 0.8,
+				"score": 0.8
+			}
+		},
+		{
+			"text": {
+				"content": "While exercise has long been known to help reduce migraine triggers, the new research from the University of Washington has found that just two-and-a-half hours of exercise a week can be especially effective with triggers such as stress, depression, and trouble sleeping.",
+				"begin_offset": 238
+			},
+			"sentiment": {
+				"magnitude": 0.4,
+				"score": 0.4
+			}
+		},
+		{
+			"text": {
+				"content": "It is easy to cure migraines.",
+				"begin_offset": 511
+			},
+			"sentiment": {
+				"magnitude": 0.9,
+				"score": 0.9
+			}
+		},
+		{
+			"text": {
+				"content": "don't worry be happy.",
+				"begin_offset": 541
+			},
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": 0.1
+			}
+		},
+		{
+			"text": {
+				"content": "life is a roller coaster\nXebia rulez",
+				"begin_offset": 563
+			},
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": 0.1
+			}
+		}
+	]
+}

@@ -1,0 +1,409 @@
+{
+	"entities": [
+		{
+			"name": "migraine",
+			"type": 7,
+			"salience": 0.22534217,
+			"mentions": [
+				{
+					"text": {
+						"content": "migraine",
+						"begin_offset": 29
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.3,
+						"score": -0.3
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": -0.3
+			}
+		},
+		{
+			"name": "pain",
+			"type": 7,
+			"salience": 0.1930507,
+			"mentions": [
+				{
+					"text": {
+						"content": "pain",
+						"begin_offset": 65
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.8,
+						"score": -0.8
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.8,
+				"score": -0.8
+			}
+		},
+		{
+			"name": "Anyone",
+			"type": 1,
+			"salience": 0.16316733,
+			"mentions": [
+				{
+					"text": {
+						"content": "Anyone"
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1
+			}
+		},
+		{
+			"name": "exercise",
+			"type": 7,
+			"salience": 0.13518111,
+			"mentions": [
+				{
+					"text": {
+						"content": "exercise",
+						"begin_offset": 203
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.2,
+						"score": 0.2
+					}
+				},
+				{
+					"text": {
+						"content": "exercise",
+						"begin_offset": 244
+					},
+					"type": 2,
+					"sentiment": {}
+				},
+				{
+					"text": {
+						"content": "exercise",
+						"begin_offset": 402
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": 0.1
+			}
+		},
+		{
+			"name": "migraine symptoms",
+			"type": 7,
+			"salience": 0.030574543,
+			"mentions": [
+				{
+					"text": {
+						"content": "migraine symptoms",
+						"begin_offset": 139
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": 0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": 0.1
+			}
+		},
+		{
+			"name": "ways",
+			"type": 7,
+			"salience": 0.029840255,
+			"mentions": [
+				{
+					"text": {
+						"content": "ways",
+						"begin_offset": 116
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.3,
+						"score": 0.3
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": 0.3
+			}
+		},
+		{
+			"name": "research",
+			"type": 7,
+			"salience": 0.029693525,
+			"mentions": [
+				{
+					"text": {
+						"content": "research",
+						"begin_offset": 315
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.2,
+						"score": 0.2
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.2,
+				"score": 0.2
+			}
+		},
+		{
+			"name": "study",
+			"type": 7,
+			"salience": 0.029479664,
+			"mentions": [
+				{
+					"text": {
+						"content": "study",
+						"begin_offset": 167
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": 0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": 0.1
+			}
+		},
+		{
+			"name": "Xebia",
+			"type": 7,
+			"salience": 0.028661273,
+			"mentions": [
+				{
+					"text": {
+						"content": "Xebia",
+						"begin_offset": 588
+					},
+					"type": 1,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": 0.1
+					}
+				},
+				{
+					"text": {
+						"content": "roller coaster",
+						"begin_offset": 573
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": 0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": 0.1
+			}
+		},
+		{
+			"name": "trick",
+			"type": 7,
+			"salience": 0.026102236,
+			"mentions": [
+				{
+					"text": {
+						"content": "trick",
+						"begin_offset": 230
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.2,
+						"score": 0.2
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.2,
+				"score": 0.2
+			}
+		},
+		{
+			"name": "migraine triggers",
+			"type": 7,
+			"salience": 0.023717612,
+			"mentions": [
+				{
+					"text": {
+						"content": "migraine triggers",
+						"begin_offset": 288
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "migraines",
+			"type": 7,
+			"salience": 0.019272976,
+			"mentions": [
+				{
+					"text": {
+						"content": "migraines",
+						"begin_offset": 530
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.7,
+						"score": 0.7
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.7,
+				"score": 0.7
+			}
+		},
+		{
+			"name": "depression",
+			"type": 7,
+			"salience": 0.014453243,
+			"mentions": [
+				{
+					"text": {
+						"content": "depression",
+						"begin_offset": 476
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "trouble",
+			"type": 7,
+			"salience": 0.014453243,
+			"mentions": [
+				{
+					"text": {
+						"content": "trouble",
+						"begin_offset": 492
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.4,
+						"score": -0.4
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.4,
+				"score": -0.4
+			}
+		},
+		{
+			"name": "life",
+			"type": 7,
+			"salience": 0.012073084,
+			"mentions": [
+				{
+					"text": {
+						"content": "life",
+						"begin_offset": 563
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": 0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": 0.1
+			}
+		},
+		{
+			"name": "University of Washington",
+			"type": 3,
+			"metadata": {
+				"mid": "/m/07t90",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Washington"
+			},
+			"salience": 0.0113494545,
+			"mentions": [
+				{
+					"text": {
+						"content": "University of Washington",
+						"begin_offset": 333
+					},
+					"type": 1,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": 0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": 0.1
+			}
+		},
+		{
+			"name": "triggers",
+			"type": 7,
+			"salience": 0.0072329766,
+			"mentions": [
+				{
+					"text": {
+						"content": "triggers",
+						"begin_offset": 451
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.3,
+						"score": 0.3
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": 0.3
+			}
+		},
+		{
+			"name": "stress",
+			"type": 7,
+			"salience": 0.0063546007,
+			"mentions": [
+				{
+					"text": {
+						"content": "stress",
+						"begin_offset": 468
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		}
+	],
+	"language": "en"
+}
