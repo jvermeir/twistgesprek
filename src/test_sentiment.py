@@ -8,4 +8,4 @@ def test_find_matching_article():
 
     # expect a file with a negative score
     assert score == -0.3
-    # assert matching_text == ""
+    assert matching_text == ""

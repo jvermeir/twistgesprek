@@ -227,6 +227,15 @@ Find `alternative facts` given a `fact` is difficult, at least with Google ML.
 
 # Summary 
 
+## Idea 
+
+Show people ideas that directly contradict each other. We quickly found this is hard to do. 
+
+However, with Google ML we can find the sentiment and the subject of a text and then select another text about the same subject but with a different sentiment.
+
+So if someone sees a post claiming X is great, we want to show a post saying X is terrible. 
+
+
 ### Used `gcloud ml language` to analyze text
 
 ### Find out what a text is about: `gcloud ml language classify-text --content-file=optimist-migrane.txt`
