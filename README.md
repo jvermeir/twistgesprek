@@ -198,8 +198,24 @@ or
 
 - if someone sees an article from cnn, show them an article from fox
 
-input: some text in a file
-output: alternative texts 
+input: some text in a file 
+output: alternative texts, so texts about the same subject, in our case the word with the highest salience. 
+        we use this in stead of the classifier because these categories are too generic.
+
+1. get a list of documents about 3 different subjects. Store their sentiment in a database (a json file?) 
+1. analyze a new document, find its sentiment, select another document about the same sentiment.
+
+
+gcloud ml language analyze-entity-sentiment --content-file="myfile" 
+    select: entities[0].name > subject 
+
+use `subject` to match docuents in database
+
+gcloud ml language analyze-sentiment --content-file="myfile"
+    select: documentSentiment.score
+
+
+Find `alternative facts` given a `fact` is difficult, at least with Google ML. 
 
 # Summary 
 
