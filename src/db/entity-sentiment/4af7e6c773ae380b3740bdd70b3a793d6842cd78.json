@@ -1,0 +1,1322 @@
+{
+	"entities": [
+		{
+			"name": "migraine",
+			"type": 7,
+			"salience": 0.097846925,
+			"mentions": [
+				{
+					"text": {
+						"content": "migraine",
+						"begin_offset": 29
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.3,
+						"score": -0.3
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": -0.3
+			}
+		},
+		{
+			"name": "pain",
+			"type": 7,
+			"salience": 0.07465643,
+			"mentions": [
+				{
+					"text": {
+						"content": "pain",
+						"begin_offset": 65
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.8,
+						"score": -0.8
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.8,
+				"score": -0.8
+			}
+		},
+		{
+			"name": "Anyone",
+			"type": 1,
+			"salience": 0.06245382,
+			"mentions": [
+				{
+					"text": {
+						"content": "Anyone"
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1
+			}
+		},
+		{
+			"name": "study",
+			"type": 7,
+			"salience": 0.052177526,
+			"mentions": [
+				{
+					"text": {
+						"content": "study",
+						"begin_offset": 167
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": 0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": 0.1
+			}
+		},
+		{
+			"name": "exercise",
+			"type": 7,
+			"salience": 0.04378748,
+			"mentions": [
+				{
+					"text": {
+						"content": "exercise",
+						"begin_offset": 203
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.2,
+						"score": 0.2
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.2,
+				"score": 0.2
+			}
+		},
+		{
+			"name": "exercise",
+			"type": 7,
+			"salience": 0.04357233,
+			"mentions": [
+				{
+					"text": {
+						"content": "exercise",
+						"begin_offset": 244
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "trick",
+			"type": 7,
+			"salience": 0.0371254,
+			"mentions": [
+				{
+					"text": {
+						"content": "trick",
+						"begin_offset": 230
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.2,
+						"score": 0.2
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.2,
+				"score": 0.2
+			}
+		},
+		{
+			"name": "Mason Dyess",
+			"type": 1,
+			"salience": 0.035564695,
+			"mentions": [
+				{
+					"text": {
+						"content": "Mason Dyess",
+						"begin_offset": 798
+					},
+					"type": 1,
+					"sentiment": {
+						"magnitude": 0.2,
+						"score": 0.2
+					}
+				},
+				{
+					"text": {
+						"content": "Dr.",
+						"begin_offset": 794
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": 0.1
+					}
+				},
+				{
+					"text": {
+						"content": "study author",
+						"begin_offset": 781
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": 0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.6,
+				"score": 0.2
+			}
+		},
+		{
+			"name": "migraine symptoms",
+			"type": 7,
+			"salience": 0.029450445,
+			"mentions": [
+				{
+					"text": {
+						"content": "migraine symptoms",
+						"begin_offset": 139
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": 0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": 0.1
+			}
+		},
+		{
+			"name": "ways",
+			"type": 7,
+			"salience": 0.028740272,
+			"mentions": [
+				{
+					"text": {
+						"content": "ways",
+						"begin_offset": 116
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.3,
+						"score": 0.3
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": 0.3
+			}
+		},
+		{
+			"name": "neurotransmitters",
+			"type": 7,
+			"salience": 0.027875857,
+			"mentions": [
+				{
+					"text": {
+						"content": "neurotransmitters",
+						"begin_offset": 622
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.9,
+						"score": 0.9
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 1.1,
+				"score": 0.5
+			}
+		},
+		{
+			"name": "participants",
+			"type": 1,
+			"salience": 0.024043243,
+			"mentions": [
+				{
+					"text": {
+						"content": "participants",
+						"begin_offset": 1454
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.2
+			}
+		},
+		{
+			"name": "relationship",
+			"type": 7,
+			"salience": 0.022925474,
+			"mentions": [
+				{
+					"text": {
+						"content": "relationship",
+						"begin_offset": 531
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.3,
+						"score": 0.3
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.6,
+				"score": 0.3
+			}
+		},
+		{
+			"name": "research",
+			"type": 7,
+			"salience": 0.019823551,
+			"mentions": [
+				{
+					"text": {
+						"content": "research",
+						"begin_offset": 315
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.2,
+						"score": 0.2
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.2,
+				"score": 0.2
+			}
+		},
+		{
+			"name": "exercise",
+			"type": 7,
+			"salience": 0.018936886,
+			"mentions": [
+				{
+					"text": {
+						"content": "exercise",
+						"begin_offset": 562
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.3,
+						"score": 0.3
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": 0.3
+			}
+		},
+		{
+			"name": "participants",
+			"type": 1,
+			"salience": 0.018745886,
+			"mentions": [
+				{
+					"text": {
+						"content": "participants",
+						"begin_offset": 1654
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1
+			}
+		},
+		{
+			"name": "exercise",
+			"type": 7,
+			"salience": 0.016608197,
+			"mentions": [
+				{
+					"text": {
+						"content": "exercise",
+						"begin_offset": 402
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "depression",
+			"type": 7,
+			"salience": 0.014919524,
+			"mentions": [
+				{
+					"text": {
+						"content": "depression",
+						"begin_offset": 476
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "stress",
+			"type": 7,
+			"salience": 0.012676885,
+			"mentions": [
+				{
+					"text": {
+						"content": "stress",
+						"begin_offset": 468
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "triggers",
+			"type": 7,
+			"salience": 0.012676885,
+			"mentions": [
+				{
+					"text": {
+						"content": "triggers",
+						"begin_offset": 451
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.3,
+						"score": 0.3
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": 0.3
+			}
+		},
+		{
+			"name": "migraine triggers",
+			"type": 7,
+			"salience": 0.012676885,
+			"mentions": [
+				{
+					"text": {
+						"content": "migraine triggers",
+						"begin_offset": 288
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "group",
+			"type": 3,
+			"salience": 0.011544142,
+			"mentions": [
+				{
+					"text": {
+						"content": "group",
+						"begin_offset": 1743
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "people",
+			"type": 1,
+			"salience": 0.011464122,
+			"mentions": [
+				{
+					"text": {
+						"content": "people",
+						"begin_offset": 1785
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": -0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": -0.1
+			}
+		},
+		{
+			"name": "migraines",
+			"type": 7,
+			"salience": 0.011284534,
+			"mentions": [
+				{
+					"text": {
+						"content": "migraines",
+						"begin_offset": 890
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.2,
+						"score": -0.2
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.2,
+				"score": -0.2
+			}
+		},
+		{
+			"name": "migraines",
+			"type": 7,
+			"salience": 0.011259309,
+			"mentions": [
+				{
+					"text": {
+						"content": "migraines",
+						"begin_offset": 933
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": -0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": -0.1
+			}
+		},
+		{
+			"name": "part",
+			"type": 7,
+			"salience": 0.010742793,
+			"mentions": [
+				{
+					"text": {
+						"content": "part",
+						"begin_offset": 815
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "participant",
+			"type": 1,
+			"salience": 0.009817408,
+			"mentions": [
+				{
+					"text": {
+						"content": "participant",
+						"begin_offset": 1000
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "rates",
+			"type": 7,
+			"salience": 0.009471532,
+			"mentions": [
+				{
+					"text": {
+						"content": "rates",
+						"begin_offset": 1569
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.3,
+						"score": -0.3
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": -0.3
+			}
+		},
+		{
+			"name": "study",
+			"type": 7,
+			"salience": 0.009438435,
+			"mentions": [
+				{
+					"text": {
+						"content": "study",
+						"begin_offset": 827
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "researchers",
+			"type": 1,
+			"salience": 0.009438435,
+			"mentions": [
+				{
+					"text": {
+						"content": "researchers",
+						"begin_offset": 838
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "depression",
+			"type": 7,
+			"salience": 0.009262194,
+			"mentions": [
+				{
+					"text": {
+						"content": "depression",
+						"begin_offset": 1092
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.3,
+						"score": -0.3
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": -0.3
+			}
+		},
+		{
+			"name": "anxiety",
+			"type": 7,
+			"salience": 0.0086251,
+			"mentions": [
+				{
+					"text": {
+						"content": "anxiety",
+						"begin_offset": 1116
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.3,
+						"score": -0.3
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": -0.3
+			}
+		},
+		{
+			"name": "Researchers",
+			"type": 1,
+			"salience": 0.008598513,
+			"mentions": [
+				{
+					"text": {
+						"content": "Researchers",
+						"begin_offset": 1187
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "stress",
+			"type": 7,
+			"salience": 0.007867816,
+			"mentions": [
+				{
+					"text": {
+						"content": "stress",
+						"begin_offset": 1104
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.2,
+						"score": -0.2
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.2,
+				"score": -0.2
+			}
+		},
+		{
+			"name": "questionnaire",
+			"type": 5,
+			"salience": 0.007625847,
+			"mentions": [
+				{
+					"text": {
+						"content": "questionnaire",
+						"begin_offset": 1024
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "well-being",
+			"type": 7,
+			"salience": 0.00758469,
+			"mentions": [
+				{
+					"text": {
+						"content": "well-being",
+						"begin_offset": 761
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.5,
+						"score": 0.5
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.5,
+				"score": 0.5
+			}
+		},
+		{
+			"name": "mood",
+			"type": 7,
+			"salience": 0.00758469,
+			"mentions": [
+				{
+					"text": {
+						"content": "mood",
+						"begin_offset": 744
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.8,
+						"score": 0.8
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.8,
+				"score": 0.8
+			}
+		},
+		{
+			"name": "trouble",
+			"type": 7,
+			"salience": 0.0075185876,
+			"mentions": [
+				{
+					"text": {
+						"content": "trouble",
+						"begin_offset": 492
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.4,
+						"score": -0.4
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.4,
+				"score": -0.4
+			}
+		},
+		{
+			"name": "levels",
+			"type": 7,
+			"salience": 0.0074920543,
+			"mentions": [
+				{
+					"text": {
+						"content": "levels",
+						"begin_offset": 607
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.6,
+						"score": 0.6
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.6,
+				"score": 0.6
+			}
+		},
+		{
+			"name": "norepinephrine",
+			"type": 6,
+			"salience": 0.0074920543,
+			"mentions": [
+				{
+					"text": {
+						"content": "norepinephrine",
+						"begin_offset": 656
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.2,
+						"score": 0.2
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.2,
+				"score": 0.2
+			}
+		},
+		{
+			"name": "headaches",
+			"type": 7,
+			"salience": 0.0074920543,
+			"mentions": [
+				{
+					"text": {
+						"content": "headaches",
+						"begin_offset": 718
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.6,
+						"score": 0.6
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.6,
+				"score": 0.6
+			}
+		},
+		{
+			"name": "serotonin",
+			"type": 7,
+			"salience": 0.0074920543,
+			"mentions": [
+				{
+					"text": {
+						"content": "serotonin",
+						"begin_offset": 672
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.4,
+						"score": 0.4
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.4,
+				"score": 0.4
+			}
+		},
+		{
+			"name": "dopamine",
+			"type": 7,
+			"salience": 0.0074920543,
+			"mentions": [
+				{
+					"text": {
+						"content": "dopamine",
+						"begin_offset": 646
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": 0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": 0.1
+			}
+		},
+		{
+			"name": "depression",
+			"type": 7,
+			"salience": 0.0069515416,
+			"mentions": [
+				{
+					"text": {
+						"content": "depression",
+						"begin_offset": 1578
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.4,
+						"score": -0.4
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.4,
+				"score": -0.4
+			}
+		},
+		{
+			"name": "migraine characteristics",
+			"type": 7,
+			"salience": 0.006911764,
+			"mentions": [
+				{
+					"text": {
+						"content": "migraine characteristics",
+						"begin_offset": 1050
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": -0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": -0.1
+			}
+		},
+		{
+			"name": "sleep routines",
+			"type": 7,
+			"salience": 0.006911764,
+			"mentions": [
+				{
+					"text": {
+						"content": "sleep routines",
+						"begin_offset": 1076
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.2,
+						"score": -0.2
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.2,
+				"score": -0.2
+			}
+		},
+		{
+			"name": "University of Washington",
+			"type": 3,
+			"metadata": {
+				"mid": "/m/07t90",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Washington"
+			},
+			"salience": 0.006589094,
+			"mentions": [
+				{
+					"text": {
+						"content": "University of Washington",
+						"begin_offset": 333
+					},
+					"type": 1,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": 0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": 0.1
+			}
+		},
+		{
+			"name": "anxiety",
+			"type": 7,
+			"salience": 0.0064730584,
+			"mentions": [
+				{
+					"text": {
+						"content": "anxiety",
+						"begin_offset": 1590
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.3,
+						"score": -0.3
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.3,
+				"score": -0.3
+			}
+		},
+		{
+			"name": "exercise",
+			"type": 7,
+			"salience": 0.0064550326,
+			"mentions": [
+				{
+					"text": {
+						"content": "exercise",
+						"begin_offset": 1157
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "half",
+			"type": 1,
+			"salience": 0.0056461203,
+			"mentions": [
+				{
+					"text": {
+						"content": "half",
+						"begin_offset": 1642
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "sleep problems",
+			"type": 7,
+			"salience": 0.0051865126,
+			"mentions": [
+				{
+					"text": {
+						"content": "sleep problems",
+						"begin_offset": 1603
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.2,
+						"score": -0.2
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.2,
+				"score": -0.2
+			}
+		},
+		{
+			"name": "depression",
+			"type": 7,
+			"salience": 0.0048609152,
+			"mentions": [
+				{
+					"text": {
+						"content": "depression",
+						"begin_offset": 1692
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": -0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": -0.1
+			}
+		},
+		{
+			"name": "anxiety",
+			"type": 7,
+			"salience": 0.0045212847,
+			"mentions": [
+				{
+					"text": {
+						"content": "anxiety",
+						"begin_offset": 1822
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.6,
+						"score": -0.6
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.6,
+				"score": -0.6
+			}
+		},
+		{
+			"name": "group",
+			"type": 3,
+			"salience": 0.0045212847,
+			"mentions": [
+				{
+					"text": {
+						"content": "group",
+						"begin_offset": 1866
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": -0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": -0.1
+			}
+		},
+		{
+			"name": "people",
+			"type": 1,
+			"salience": 0.004128261,
+			"mentions": [
+				{
+					"text": {
+						"content": "people",
+						"begin_offset": 1729
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "most",
+			"type": 7,
+			"salience": 0.0036260965,
+			"mentions": [
+				{
+					"text": {
+						"content": "most",
+						"begin_offset": 1768
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "most",
+			"type": 7,
+			"salience": 0.0036222166,
+			"mentions": [
+				{
+					"text": {
+						"content": "most",
+						"begin_offset": 1887
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": -0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": -0.1
+			}
+		},
+		{
+			"name": "exercise",
+			"type": 7,
+			"salience": 0.0034002042,
+			"mentions": [
+				{
+					"text": {
+						"content": "exercise",
+						"begin_offset": 1258
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "participants",
+			"type": 1,
+			"salience": 0.0032365804,
+			"mentions": [
+				{
+					"text": {
+						"content": "participants",
+						"begin_offset": 1212
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "groups",
+			"type": 3,
+			"salience": 0.002842783,
+			"mentions": [
+				{
+					"text": {
+						"content": "groups",
+						"begin_offset": 1235
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "frequency",
+			"type": 7,
+			"salience": 0.0022772485,
+			"mentions": [
+				{
+					"text": {
+						"content": "frequency",
+						"begin_offset": 1245
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "none",
+			"type": 7,
+			"salience": 0.0022772485,
+			"mentions": [
+				{
+					"text": {
+						"content": "none",
+						"begin_offset": 1280
+					},
+					"type": 2,
+					"sentiment": {
+						"magnitude": 0.1,
+						"score": -0.1
+					}
+				}
+			],
+			"sentiment": {
+				"magnitude": 0.1,
+				"score": -0.1
+			}
+		},
+		{
+			"name": "minimum",
+			"type": 7,
+			"salience": 0.0022772485,
+			"mentions": [
+				{
+					"text": {
+						"content": "minimum",
+						"begin_offset": 1350
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "results",
+			"type": 7,
+			"salience": 0.0018908394,
+			"mentions": [
+				{
+					"text": {
+						"content": "results",
+						"begin_offset": 1415
+					},
+					"type": 2,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		},
+		{
+			"name": "World Health Organization",
+			"type": 3,
+			"metadata": {
+				"mid": "/m/0840w",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/World_Health_Organization"
+			},
+			"salience": 0.001519883,
+			"mentions": [
+				{
+					"text": {
+						"content": "World Health Organization",
+						"begin_offset": 1377
+					},
+					"type": 1,
+					"sentiment": {}
+				},
+				{
+					"text": {
+						"content": "WHO",
+						"begin_offset": 1404
+					},
+					"type": 1,
+					"sentiment": {}
+				}
+			],
+			"sentiment": {}
+		}
+	],
+	"language": "en"
+}

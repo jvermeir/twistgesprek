@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"crypto/sha1"
 	"fmt"
 	"io/ioutil"
 	"log"
@@ -25,9 +26,22 @@ func main() {
 		log.Fatalf("Failed to create client: %v", err)
 	}
 
+	// Read 'database' on disk
+	// ..TODO
+
+	// Read text from file provided as argument
 	text, err := ioutil.ReadFile(argsWithoutProg[0]) // just pass the file name
 	if err != nil {
 		fmt.Print(err)
+	}
+
+	h := sha1.New()
+	h.Write(text)
+	bs := h.Sum(nil)
+	hash := fmt.Sprintf("%x", bs)
+
+	if err := ioutil.WriteFile(fmt.Sprintf("./db/text/%s.text", hash), text, 0644); err != nil {
+		log.Fatalln(err)
 	}
 
 	// Detects the sentiment of the text.
@@ -44,13 +58,7 @@ func main() {
 		log.Fatalf("Failed to analyze text: %v", err)
 	}
 
-	if sentiment.DocumentSentiment.Score >= 0 {
-		fmt.Println("Sentiment: positive")
-	} else {
-		fmt.Println("Sentiment: negative")
-	}
-
-	if err := Save("./db/sentiment/migraine.json", sentiment); err != nil {
+	if err := Save(fmt.Sprintf("./db/sentiment/%s.json", hash), sentiment); err != nil {
 		log.Fatalln(err)
 	}
 
@@ -68,13 +76,7 @@ func main() {
 		log.Fatalf("Failed to analyze text: %v", err)
 	}
 
-	firstEntity := entitySentiment.Entities[0]
-
-	fmt.Printf("First Entity: %v\n", firstEntity.Name)
-	if firstEntity.Sentiment.Score >= 0 {
-		fmt.Println("Entity Sentiment: positive")
-	} else {
-		fmt.Println("Entity Sentiment: negative")
+	if err := Save(fmt.Sprintf("./db/entity-sentiment/%s.json", hash), entitySentiment); err != nil {
+		log.Fatalln(err)
 	}
-
 }
