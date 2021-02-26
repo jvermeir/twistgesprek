@@ -217,14 +217,25 @@ gcloud ml language analyze-sentiment --content-file="myfile"
 
 Find `alternative facts` given a `fact` is difficult, at least with Google ML. 
 
+
+
+
+
+
+
+
+
 # Summary 
 
-1. Used `gcloud ml language` to analyze text 
-1. Find out what a text is about: `gcloud ml language classify-text --content-file=optimist-migrane.txt`
-   (this is the text: https://www.optimistdaily.com/2021/02/just-2-5-hours-of-weekly-exercise-could-help-reduce-migraine-triggers/)
-1. This is spot-on, super.
+### Used `gcloud ml language` to analyze text
+
+### Find out what a text is about: `gcloud ml language classify-text --content-file=optimist-migrane.txt`
+   
+(this is the text: https://www.optimistdaily.com/2021/02/just-2-5-hours-of-weekly-exercise-could-help-reduce-migraine-triggers/)
+
+This is spot-on, super.
 ```
- $ gcloud ml language classify-text --content-file=optimist-migrane.txt
+$ gcloud ml language classify-text --content-file=optimist-migrane.txt
 {
   "categories": [
     {
@@ -234,15 +245,26 @@ Find `alternative facts` given a `fact` is difficult, at least with Google ML.
   ]
 }
 ```
-1. Analyze sentiment: `gcloud ml language analyze-sentiment --content='kill all software developers.'` 
-``` $ gcloud ml language analyze-sentiment --content='kill all software developers.'
+
+
+
+### Analyze sentiment of a document 
+  
+`gcloud ml language analyze-sentiment --content='kill all software developers.'`
+
+``` $ gcloud ml language analyze-sentiment --content='we love all software developers.'
 {
   "documentSentiment": {
-    "magnitude": 0.8,
-    "score": -0.8
+    "magnitude": 0.9,
+    "score": 0.9
   }, ...
 ```
-1. Getting a positive outcome is not so easy. This is a text about handling migraine. This text also contains negative sentences
+
+### Getting a positive outcome is not that intuitive. 
+
+
+This is a text taken from theOptimist about handling migraine. This text also contains negative sentences
+
 ```
  $ gcloud ml language analyze-sentiment --content-file=optimist-migrane.txt
 {
@@ -273,7 +295,11 @@ Find `alternative facts` given a `fact` is difficult, at least with Google ML.
       }
     },
 ```
-1. Sentiment analysis is not enough. 
+
+### Sentiment analysis is not enough
+
+This Facebook text from the NRA gets a positive score. hmmm?
+
 `gcloud ml language analyze-sentiment --content="Just recently, Joe Biden renewed his pledge to TAKE YOUR LAWFULLY OWNED FIREARMS with the help of his gun-hating friends in Congress."`
 ```
     {
@@ -283,6 +309,9 @@ Find `alternative facts` given a `fact` is difficult, at least with Google ML.
     }, ...
 ```
 
+### Plans 
 
-
+1. Analyze a bunch of text files about a subject, store their sentiment in a database. 
+1. Read a new text, find it's subject and its sentiment.
+1. Select a text from the database for the same subject but with the inverse sentiment.
 
