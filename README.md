@@ -121,50 +121,6 @@ gcloud ml language analyze-sentiment --content-file=./text2.txt
     },
 ```
 
-```
- $ gcloud ml language analyze-sentiment --content='kill all homeless people.'
-{
-  "documentSentiment": {
-    "magnitude": 0.6,
-    "score": -0.6
-  },
-  "language": "en",
-  "sentences": [
-    {
-      "sentiment": {
-        "magnitude": 0.6,
-        "score": -0.6
-      },
-      "text": {
-        "beginOffset": 0,
-        "content": "kill all homeless people."
-      }
-    }
-  ]
-}
-[ 10:22AM ]  [ jan@jans-mbp:~/dev/inno/twistgesprek(master✗) ]
- $ gcloud ml language analyze-sentiment --content='kill all software developers.'
-{
-  "documentSentiment": {
-    "magnitude": 0.8,
-    "score": -0.8
-  },
-  "language": "en",
-  "sentences": [
-    {
-      "sentiment": {
-        "magnitude": 0.8,
-        "score": -0.8
-      },
-      "text": {
-        "beginOffset": 0,
-        "content": "kill all software developers."
-      }
-    }
-  ]
-}
-```
-
 idea:
 
     this way we can find the sentiment of each sentence  in a time line.  if sentiment is 
@@ -186,7 +142,131 @@ gets a neutral overall score. how about taking the most positive sentence and us
 }
 ```
 
+`gcloud ml language analyze-sentiment --content="Just recently, Joe Biden renewed his pledge to TAKE YOUR LAWFULLY OWNED FIREARMS with the help of his gun-hating friends in Congress."`
+```
+{
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Just recently, Joe Biden renewed his pledge to TAKE YOUR LAWFULLY OWNED FIREARMS with the help of his gun-hating friends in Congress."
+      }
+    }
+  ]
+}
+```
+
 TODO: 
 - find a number of sample documents
 - classify-text 
+
+- generate a list of texts on /Health/Health Conditions/Pain Management. These could be no more than fakes.
+- give each text a sentiment, some positive, some negative
+- analyze a new text (e.g. the optimist article)
+- select another article in the same category that has the opposite sentiment (or a different sentiment?)
+
+This article has a negative sentiment about migraine
+```
+      "metadata": {},
+      "name": "migraine",
+      "salience": 0.097846925,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+```
+
+use documentSentiment
+```
+{
+  "documentSentiment": {
+    "magnitude": 4.4,
+    "score": 0.0
+  },
+```
+
+or
+
+- if someone sees an article from cnn, show them an article from fox
+
+input: some text in a file
+output: alternative texts 
+
+# Summary 
+
+1. Used `gcloud ml language` to analyze text 
+1. Find out what a text is about: `gcloud ml language classify-text --content-file=optimist-migrane.txt`
+   (this is the text: https://www.optimistdaily.com/2021/02/just-2-5-hours-of-weekly-exercise-could-help-reduce-migraine-triggers/)
+1. This is spot-on, super.
+```
+ $ gcloud ml language classify-text --content-file=optimist-migrane.txt
+{
+  "categories": [
+    {
+      "confidence": 0.95,
+      "name": "/Health/Health Conditions/Pain Management"
+    }
+  ]
+}
+```
+1. Analyze sentiment: `gcloud ml language analyze-sentiment --content='kill all software developers.'` 
+``` $ gcloud ml language analyze-sentiment --content='kill all software developers.'
+{
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": -0.8
+  }, ...
+```
+1. Getting a positive outcome is not so easy. This is a text about handling migraine. This text also contains negative sentences
+```
+ $ gcloud ml language analyze-sentiment --content-file=optimist-migrane.txt
+{
+  "documentSentiment": {
+    "magnitude": 4.4,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Anyone who has experienced a migraine knows how debilitating the pain can be."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 78,
+        "content": "And while there are several medicinal ways to help alleviate migraine symptoms, a recent study has found that getting enough exercise might just do the trick."
+      }
+    },
+```
+1. Sentiment analysis is not enough. 
+`gcloud ml language analyze-sentiment --content="Just recently, Joe Biden renewed his pledge to TAKE YOUR LAWFULLY OWNED FIREARMS with the help of his gun-hating friends in Congress."`
+```
+    {
+    "documentSentiment": {
+    "magnitude": 0.4,
+    "score": 0.4
+    }, ...
+```
+
+
+
 
