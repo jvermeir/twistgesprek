@@ -1,0 +1,159 @@
+{
+  "documentSentiment": {
+    "magnitude": 9.0,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "we are doomed!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 15,
+        "content": "it wil all end in tears."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 40,
+        "content": "the world is broken.we are doomed!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 75,
+        "content": "it wil all end in tears."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 100,
+        "content": "the world is broken.we are doomed!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 135,
+        "content": "it wil all end in tears."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 160,
+        "content": "the world is broken.we are doomed!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 195,
+        "content": "it wil all end in tears."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 220,
+        "content": "the world is broken.we are doomed!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 255,
+        "content": "it wil all end in tears."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 280,
+        "content": "the world is broken.we are doomed!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 315,
+        "content": "it wil all end in tears."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 340,
+        "content": "the world is broken.we are doomed!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 375,
+        "content": "it wil all end in tears."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 400,
+        "content": "the world is broken."
+      }
+    }
+  ]
+}

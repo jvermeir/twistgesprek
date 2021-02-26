@@ -1,0 +1,99 @@
+{
+  "documentSentiment": {
+    "magnitude": 4.8,
+    "score": 0.5
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "The sun is shining."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 20,
+        "content": "Everybody is happy."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 40,
+        "content": "Don't worry, be happy."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 63,
+        "content": "The sun is shining tomorrow."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 92,
+        "content": "Everybody is happy tomorrow."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 121,
+        "content": "Don't worry, be happy tomorrow."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 153,
+        "content": "The sun was shining yesterday."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 184,
+        "content": "Everybody was happy yesterday."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 215,
+        "content": "Don't worry, be happy yesterday."
+      }
+    }
+  ]
+}
