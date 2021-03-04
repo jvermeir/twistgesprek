@@ -35,7 +35,7 @@ Using a message from TheOptimist (https://www.optimistdaily.com/2021/02/just-2-5
 about curing migraines we get this: 
 
 ```
- $ gcloud ml language analyze-sentiment --content-file=optimist-migrane.txt
+ $ gcloud ml language analyze-sentiment --content-file=optimist-migraine.txt
 {
   "documentSentiment": {
     "magnitude": 4.4,
@@ -47,7 +47,7 @@ Which is not very positive, more neutral. This is probably caused by the first s
 To find out what a document is about, Google offers `analyze-entity-sentiment`, like this:
 
 ```
- $ gcloud ml language analyze-entity-sentiment --content-file=optimist-migrane.txt
+ $ gcloud ml language analyze-entity-sentiment --content-file=optimist-migraine.txt
 {
   "entities": [
     {
